@@ -1,0 +1,2 @@
+GET / HTTP/1.1[crlf]Host: us.greenssh.org[crlf]Upgrade: websocket[crlf][crlf]
+HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: h.facebook.com[crlf]User-Agent: [ua][crlf]Referer: http://covid19.go.id[crlf][crlf]VERSION-CONTROL ws://[host] HTTP/1.1[crlf]Host: covid19.go.id[crlf]Upgrade: websocket[crlf][crlf]
